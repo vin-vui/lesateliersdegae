@@ -3,7 +3,7 @@
         <img class="h-64 w-full bg-gray-50 object-cover sm:h-80 lg:absolute lg:h-full" src="https://images.unsplash.com/photo-1601911756110-df2ca76b05fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2054&q=80" alt="">
     </div>
     <div class="pb-24 pt-16 sm:pb-32 sm:pt-24 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:pt-32">
-        <div class="px-6 lg:px-8">
+        <div class="px-6 lg:px-8 relative z-20">
             <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
                 <h2 class="text-3xl font-bold tracking-tight text-eccru">Restons en contact</h2>
                 <p class="mt-2 text-lg leading-8 text-gray-600">
@@ -73,5 +73,9 @@
                 </form>
             </div>
         </div>
+        <div class="absolute -left-24 z-10 bottom-0 overflow-hidden">
+            <img src="{{ url('img/mandala_4.png') }}" alt="" class="w-full md:h-96 h-64 opacity-75">
+        </div>
     </div>
+
 </div>

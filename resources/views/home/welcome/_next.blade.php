@@ -1,6 +1,10 @@
+<div class="h-full absolute overflow-hidden">
+    <img src="{{ url('img/mandala_3.png') }}" alt="" class="md:-mt-80 -mt-32">
+</div>
+
 <div class="bg-zomp pt-24 sm:pb-16 sm:pt-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="mx-auto max-w-2xl text-center">
+        <div class="mx-auto max-w-2xl text-center relative z-30">
             <p class=" text-lg leading-8 text-gray-200">Pour ne rater aucun atelier !</p>
             <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-50 sm:text-4xl font-amita">Agenda des ateliers</h2>
         </div>

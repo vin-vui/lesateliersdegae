@@ -7,10 +7,10 @@
             </a>
         </div>
         <div class="hidden lg:flex lg:gap-x-12 items-center">
-            <a href="#" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('welcome') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Accueil</span></a>
-            <a href="#" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Particuliers</span></a>
-            <a href="#" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Structures</span></a>
-            <a href="#" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Agenda des Ateliers</span></a>
+            <a href="{{ route('welcome') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('welcome') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Accueil</span></a>
+            <a href="{{ route('individuals') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('individuals') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Particuliers</span></a>
+            <a href="{{ route('organizations') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('organizations') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Structures</span></a>
+            <a href="{{ route('agenda') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('agenda') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Agenda des Ateliers</span></a>
         </div>
         <div class="flex flex-1 items-center justify-end gap-x-6">
             <a href="#" class="rounded-full bg-zomp sm:px-3 sm:py-2 sm:text-sm text-xs py-1 px-2 font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-caribbean">Me Contacter</a>

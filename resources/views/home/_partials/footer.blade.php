@@ -1,4 +1,4 @@
-<div class="shapedividers_com-3348 h-24 -mt-24"></div>
+<div class="shapedividers_com-3348 h-24 -mt-24 z-20"></div>
 
 <footer class="bg-old-lace" aria-labelledby="footer-heading">
     <h2 id="footer-heading" class="sr-only">Footer</h2>

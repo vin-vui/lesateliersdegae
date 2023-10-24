@@ -18,7 +18,7 @@
     <!-- Styles -->
     @livewireStyles
 </head>
-<body>
+<body class="overflow-x-hidden">
 
     @include('home._partials.header')
 

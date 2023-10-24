@@ -16,6 +16,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home.welcome.index');
 })->name('welcome');
+Route::get('/particuliers', function () {
+    return view('home.individuals');
+})->name('individuals');
+Route::get('/structures', function () {
+    return view('home.organizations');
+})->name('organizations');
+Route::get('/agenda', function () {
+    return view('home.agenda');
+})->name('agenda');
 
 Route::middleware([
     'auth:sanctum',
