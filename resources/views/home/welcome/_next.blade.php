@@ -1,7 +1,7 @@
 <div class="bg-zomp pt-24 sm:pb-16 sm:pt-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
-            <p class=" text-lg leading-8 text-gray-200">Pour ne ratter aucun atelier !</p>
+            <p class=" text-lg leading-8 text-gray-200">Pour ne rater aucun atelier !</p>
             <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-50 sm:text-4xl font-amita">Agenda des ateliers</h2>
         </div>
         <div class="mx-auto mt-16 flex gap-8">

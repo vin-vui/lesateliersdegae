@@ -25,7 +25,7 @@
             </div>
             <div class="basis-1/2">
                 <p class="mt-6 text-xl leading-8 text-gray-600">
-                    De ces structures émane un sentiment apaisant d'ordre et d'harmonie, qui nourrit l'équilibre de notre esprit. Mettre de la couleur dans un dessin centré ne fait pas seulement plaisir, il apaise, relaxe et contribue à une restructuration bienfaisante. C'est une pratique simple et accessible à tous, peu importe vos talents artistiques. Et la meilleure partie, elle est étroitement liée à l'art de l'écriture, vous offrant une aventure créative unique.
+                    De ces structures émane un sentiment apaisant d'ordre et d'harmonie, qui nourrit l'équilibre de notre esprit. Mettre un <span class="font-amita font-semibold text-caribbean">mandala</span> en couleur ne fait pas seulement plaisir, il apaise, relaxe et contribue à une restructuration bienfaisante. C'est une pratique simple et accessible à tous, peu importe vos talents artistiques. Et la meilleure partie, elle est étroitement liée à l'art de l'écriture, vous offrant une aventure créative unique.
                 </p>
             </div>
         </div>
