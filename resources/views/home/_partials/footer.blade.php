@@ -7,7 +7,7 @@
         <div class="flex justify-around">
             <div class="space-y-8">
                 <img class="h-20" src="/logo.png" alt="Company name">
-                <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru xl:inline block">Les Ateliers de Gaë</p>
+                <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru">Les Ateliers de Gaë</p>
                 <div class="flex space-x-6">
                     <a href="#" class="text-zomp hover:text-zomp/80">
                         <span class="sr-only">Facebook</span>
