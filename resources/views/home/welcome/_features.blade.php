@@ -51,18 +51,18 @@
 
     </div>
 
-    <div class="mx-auto max-w-5xl px-6 mt-24">
+    <div class="mx-auto max-w-5xl sm:px-6 px-4 mt-24">
         <h3 class="text-xl font-bold tracking-tight text-zomp sm:text-3xl text-center font-amita mt-12" data-aos="zoom-in-down" data-aos-duration="1500">
             Alors n'hésitez pas, offrez vous une pause <span class="font-amita font-semibold text-caribbean">mandala</span> !
         </h3>
         <div class="flex flex-col gap-y-4 text-center md:flex-row md:items-center justify-around mt-12">
-            <a href="{{ route('individuals') }}" class="bg-zomp hover:bg-zomp/80 text-white rounded-full font-semibold py-4 px-6 flex items-center gap-2" data-aos="fade-right" data-aos-duration="1500">
+            <a href="{{ route('individuals') }}" class="bg-zomp hover:bg-zomp/80 text-white rounded-full font-semibold py-4 px-6 flex items-center gap-2 whitespace-nowrap" data-aos="fade-right" data-aos-duration="1500">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
                     <path fill="currentColor" d="M1.5 4v1.5c0 4.15 2.21 7.78 5.5 9.8V20h15v-2c0-2.66-5.33-4-8-4h-.25C9 14 5 10 5 5.5V4m9 0a4 4 0 0 0-4 4a4 4 0 0 0 4 4a4 4 0 0 0 4-4a4 4 0 0 0-4-4Z" />
                 </svg>
                 Ateliers pour les <span class="font-bold">particuliers</span>
             </a>
-            <a href="{{  route('organizations')  }}" class="bg-caribbean hover:bg-caribbean/80 text-white rounded-full font-semibold py-4 px-6 flex items-center gap-2" data-aos="fade-left" data-aos-duration="1500">
+            <a href="{{  route('organizations')  }}" class="bg-caribbean hover:bg-caribbean/80 text-white rounded-full font-semibold py-4 px-6 flex items-center gap-2 whitespace-nowrap" data-aos="fade-left" data-aos-duration="1500">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 20 20">
                     <path fill="currentColor" fill-rule="evenodd" d="M1 2.75A.75.75 0 0 1 1.75 2h10.5a.75.75 0 0 1 0 1.5H12v13.75a.75.75 0 0 1-.75.75h-1.5a.75.75 0 0 1-.75-.75v-2.5a.75.75 0 0 0-.75-.75h-2.5a.75.75 0 0 0-.75.75v2.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5H2v-13h-.25A.75.75 0 0 1 1 2.75ZM4 5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1ZM4.5 9a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM8 5.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1ZM8.5 9a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm5.75-3a.75.75 0 0 0-.75.75V17a1 1 0 0 0 1 1h3.75a.75.75 0 0 0 0-1.5H18v-9h.25a.75.75 0 0 0 0-1.5h-4Zm.5 3.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1Zm.5 3.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" clip-rule="evenodd"/>
                 </svg>

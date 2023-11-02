@@ -157,10 +157,10 @@
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1433622070098-754fdf81c929?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
             </div>
         </div>
-        <div class="items-center mt-4 py-8 px-4 mx-auto max-w-screen-xl text-center bg-wheat shadow-xl rounded-3xl text-2xl font-amita">
+        <div class="items-center mt-4 py-8 px-4 sm:mx-auto max-w-screen-xl text-center bg-wheat shadow-xl rounded-3xl sm:text-2xl text-lg font-amita mx-4">
             Possible enfin de proposer un atelier ou un cycle d’ateliers
-            <br>sur mesure adapté à votre projet,
-            <br>en fonction des saisons ou d’autres thèmes…
+            <br class="hidden sm:block">sur mesure adapté à votre projet,
+            <br class="hidden sm:block">en fonction des saisons ou d’autres thèmes…
         </div>
     </section>
 

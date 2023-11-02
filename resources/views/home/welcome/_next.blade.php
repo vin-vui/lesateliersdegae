@@ -8,7 +8,7 @@
             <p class=" text-lg leading-8 text-gray-200" data-aos="zoom-in-down" data-aos-duration="1500">Pour ne rater aucun atelier !</p>
             <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-50 sm:text-4xl font-amita" data-aos="zoom-in-up" data-aos-duration="1500">Agenda des ateliers</h2>
         </div>
-        <div class="mx-auto mt-16 flex gap-8">
+        <div class="mx-auto mt-16 flex flex-col sm:flex-row gap-8">
             <article class="flex flex-col items-start grow basis-1/2" data-aos="zoom-in-down" data-aos-duration="1500">
                 <div class="relative w-full aspect-[7/5] bg-cover bg-center rounded-3xl" style="background-image: url('https://decibelles-data.media.tourinsoft.eu/upload/magasinD.jpg')"></div>
                 <div class="max-w-xl ml-4">

@@ -4,7 +4,7 @@
     <h2 id="footer-heading" class="sr-only">Footer</h2>
     <div class="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
 
-        <div class="flex justify-around">
+        <div class="flex flex-col sm:flex-row gap-y-8 justify-around">
             <div class="space-y-8">
                 <img class="h-20" src="/logo.png" alt="Company name">
                 <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru">Les Ateliers de Gaë</p>
