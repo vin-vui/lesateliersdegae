@@ -27,19 +27,19 @@
                 <h3 class="text-sm font-semibold leading-6 text-eccru">Plan du site</h3>
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
-                        <a href="#" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Accueil</a>
+                        <a href="{{ route('welcome') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Accueil</a>
                     </li>
                     <li>
-                        <a href="#" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Particuliers</a>
+                        <a href="{{ route('individuals') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Particuliers</a>
                     </li>
                     <li>
-                        <a href="#" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Structures</a>
+                        <a href="{{ route('organizations') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Structures</a>
                     </li>
+                    {{-- <li>
+                        <a href="{{ route('') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Agenda des Ateliers</a>
+                    </li> --}}
                     <li>
-                        <a href="#" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Agenda des Ateliers</a>
-                    </li>
-                    <li>
-                        <a href="#" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Mentions légales</a>
+                        <a href="{{ route('policy') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Mentions légales</a>
                     </li>
                 </ul>
             </div>
@@ -65,7 +65,7 @@
         </div>
 
         <div class="mt-16 border-t border-caribbean/50 pt-8 sm:mt-20 lg:mt-24">
-            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2020 Les Ateliers de Gaë. Tous droits réservés.</p>
+            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2020 Les Ateliers de Gaë. Tous droits réservés. Développé avec ❤️ par <a href="https://vinvui.com" class="underline hover:text-caribbean">Vinvui</a></p>
         </div>
     </div>
 </footer>

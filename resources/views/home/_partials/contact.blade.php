@@ -1,16 +1,16 @@
-<div class="relative bg-white ">
+<div id="contact" class="relative bg-white">
     <div class="lg:absolute lg:inset-0 lg:left-1/2">
         <img class="h-64 w-full bg-gray-50 object-cover sm:h-80 lg:absolute lg:h-full" src="https://images.unsplash.com/photo-1601911756110-df2ca76b05fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2054&q=80" alt="">
     </div>
     <div class="pb-24 pt-16 sm:pb-32 sm:pt-24 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:pt-32">
         <div class="px-6 lg:px-8 relative z-20">
             <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
-                <h2 class="text-3xl font-bold tracking-tight text-eccru">Restons en contact</h2>
-                <p class="mt-2 text-lg leading-8 text-gray-600">
+                <h2 class="text-3xl font-bold tracking-tight text-eccru" data-aos="fade-right" data-aos-duration="1500">Restons en contact</h2>
+                <p class="mt-2 text-lg leading-8 text-gray-600" data-aos="fade-right" data-aos-duration="1500">
                     Laissez-moi un message, comme une feuille blanche prête à accueillir votre créativité. Je suis impatiente de vous entendre.
                 </p>
                 <dl class="mt-10 space-y-4 text-base leading-7 text-gray-600">
-                    <div class="flex gap-x-4">
+                    <div class="flex gap-x-4" data-aos="fade-right" data-aos-duration="1500">
                         <dt class="flex-none">
                             <span class="sr-only">Téléphone</span>
                             <svg class="h-7 w-6 text-zomp" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -19,7 +19,7 @@
                         </dt>
                         <dd><a class="hover:text-gray-900" href="tel:+33659441983">06 59 44 19 83</a></dd>
                     </div>
-                    <div class="flex gap-x-4">
+                    <div class="flex gap-x-4" data-aos="fade-right" data-aos-duration="1500">
                         <dt class="flex-none">
                             <span class="sr-only">Email</span>
                             <svg class="h-7 w-6 text-zomp" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -31,19 +31,19 @@
                 </dl>
                 <form id="contact-form" class="mt-16">
                     <div class="flex flex-col gap-x-8 gap-y-6">
-                        <div>
+                        <div data-aos="fade-right" data-aos-duration="1500">
                             <label for="name" class="ml-3 block text-sm font-semibold leading-6 text-gray-900">Prénom Nom</label>
                             <div class="mt-2.5">
                                 <input type="text" name="name" id="name" autocomplete="given-name" class="block w-full rounded-full border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-zomp sm:text-sm sm:leading-6">
                             </div>
                         </div>
-                        <div class="sm:col-span-2">
+                        <div class="sm:col-span-2" data-aos="fade-right" data-aos-duration="1500">
                             <label for="email" class="ml-3 block text-sm font-semibold leading-6 text-gray-900">Email</label>
                             <div class="mt-2.5">
                                 <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-full border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-zomp sm:text-sm sm:leading-6">
                             </div>
                         </div>
-                        <div class="sm:col-span-2">
+                        <div class="sm:col-span-2" data-aos="fade-right" data-aos-duration="1500">
                             <div class="flex justify-between text-sm leading-6">
                                 <label for="company" class="ml-3 block font-semibold text-gray-900">Entreprise, Association, etc.</label>
                                 <p id="company-description" class="text-gray-400">Optionel</p>
@@ -52,20 +52,20 @@
                                 <input type="text" name="company" id="company" autocomplete="organization" class="block w-full rounded-full border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-zomp sm:text-sm sm:leading-6">
                             </div>
                         </div>
-                        <div class="sm:col-span-2">
+                        <div class="sm:col-span-2" data-aos="fade-right" data-aos-duration="1500">
                             <label for="phone" class="ml-3 block text-sm font-semibold leading-6 text-gray-900">Téléphone</label>
                             <div class="mt-2.5">
                                 <input type="tel" name="phone" id="phone" autocomplete="tel" aria-describedby="phone-description" class="block w-full rounded-full border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-zomp sm:text-sm sm:leading-6">
                             </div>
                         </div>
-                        <div class="sm:col-span-2">
+                        <div class="sm:col-span-2" data-aos="fade-right" data-aos-duration="1500">
                             <label for="message" class="ml-3 block text-sm font-semibold leading-6 text-gray-900">Comment puis-je vous aider ?</label>
                             <div class="mt-2.5">
                                 <textarea id="message" name="message" rows="4" aria-describedby="message-description" class="block w-full rounded-3xl border-0 px-3.5 py-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-zomp sm:text-sm sm:leading-6"></textarea>
                             </div>
                         </div>
                     </div>
-                    <div class="mt-10 flex justify-end border-t border-wheat pt-8">
+                    <div class="mt-10 flex justify-end border-t border-wheat pt-8" data-aos="fade-right" data-aos-duration="1500">
                         <button type="submit" class="rounded-full bg-zomp px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-zomp">
                             Envoyer votre message
                         </button>

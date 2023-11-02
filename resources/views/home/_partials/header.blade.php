@@ -1,7 +1,7 @@
 <header x-data="{ open: false }" @keydown.window.escape="open = false" class="bg-old-lace sticky top-0 z-50">
     <nav class="mx-auto flex max-w-none items-center justify-between gap-x-4 px-4 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
-            <a href="#" class="-mb-8">
+            <a href="{{ route('welcome') }}" class="-mb-8">
                 <span class="sr-only">{{ config('app.name') }}</span>
                 <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.png" alt="">
             </a>
@@ -13,7 +13,7 @@
             {{-- <a href="{{ route('agenda') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('agenda') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Agenda des Ateliers</span></a> --}}
         </div>
         <div class="flex flex-1 items-center justify-end gap-x-6">
-            <a href="#" class="rounded-full bg-zomp sm:px-3 sm:py-2 sm:text-sm text-xs py-1 px-2 font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-caribbean">Me Contacter</a>
+            <a href="#contact" class="rounded-full bg-zomp sm:px-3 sm:py-2 sm:text-sm text-xs py-1 px-2 font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-caribbean">Me Contacter</a>
         </div>
         <div class="flex lg:hidden">
             <button type="button" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700" @click="open = true">
