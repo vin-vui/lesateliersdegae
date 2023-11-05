@@ -28,7 +28,10 @@
             </div>
             <div class="basis-1/2" data-aos="fade-left" data-aos-duration="1500">
                 <p class="mt-6 text-xl leading-8 text-gray-600">
-                    De ces structures émane un sentiment apaisant d'ordre et d'harmonie, qui nourrit l'équilibre de notre esprit. Mettre un <span class="font-amita font-semibold text-caribbean">mandala</span> en couleur ne fait pas seulement plaisir, il apaise, relaxe et contribue à une restructuration bienfaisante. C'est une pratique simple et accessible à tous, peu importe vos talents artistiques. Et la meilleure partie, elle est étroitement liée à l'art de l'écriture, vous offrant une aventure créative unique.
+                    De ces structures émane un sentiment apaisant d'ordre et d'harmonie, qui nourrit l'équilibre de notre esprit.
+                    Mettre un <span class="font-amita font-semibold text-caribbean">mandala</span> en couleurs ne fait pas seulement plaisir, il apaise, relaxe et contribue à une restructuration bienfaisante.
+                    C'est une pratique simple et accessible à tous, peu importe vos talents artistiques.
+                    Par ailleurs, elle est étroitement liée à l'art de l'écriture, vous offrant une aventure créative unique.
                 </p>
             </div>
         </div>
@@ -36,7 +39,9 @@
         <div class="lg:flex lg:px-8 lg:gap-8 lg:mt-12">
             <div class="basis-1/2" data-aos="fade-right" data-aos-duration="1500">
                 <p class="mt-6 text-xl leading-8 text-gray-600">
-                    Pendant ou après votre séance de coloriage, il n'est pas rare que des mots et des idées émergent naturellement. Cette expérience peut vous inspirer à écrire de manière spontanée et intuitive. Selon votre âge et vos préférences, je peux vous proposer des activités simples pour vous aider à exprimer vos émotions et vos ressentis.
+                    Pendant ou après votre séance de coloriage, il n'est pas rare que des mots et des idées émergent naturellement.
+                    Cette expérience peut vous inspirer à écrire de manière spontanée et intuitive.
+                    Selon votre âge et vos préférences, je peux vous proposer des activités simples pour vous aider à exprimer vos émotions et vos ressentis.
                 </p>
                 <p class="mt-6 text-xl leading-8 text-zomp font-semibold">
                     Laissez-vous guider par cette aventure créative !
