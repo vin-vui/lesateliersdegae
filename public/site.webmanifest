@@ -1,0 +1,16 @@
+{
+  "name": "Les Ateliers de Gaë",
+  "short_name": "Les Ateliers de Gaë",
+  "description": "Découvrez l'univers du mandala à travers nos ateliers créatifs, où la sérénité et l'inspiration se rencontrent à chaque tracé.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF6E9",
+  "theme_color": "#FFF6E9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
