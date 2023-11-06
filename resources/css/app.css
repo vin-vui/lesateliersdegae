@@ -7,11 +7,11 @@
 }
 
 .highlight {
-    background: url(//s2.svgbox.net/pen-brushes.svg?ic=brush-1&color=E0CDA0);
+    background: center / cover no-repeat url(//s2.svgbox.net/pen-brushes.svg?ic=brush-1&color=E0CDA0);
     margin: -5px -16px;
-    padding: 5px 16px;
+    padding: 6px 24px;
+    white-space: nowrap;
 }
-
 
 .shapedividers_com-276 {
     overflow: hidden;
@@ -39,7 +39,6 @@
         background-size: 100% calc(2vw + 123px);
     }
 }
-
 
 .shapedividers_com-2252 {
     overflow: hidden;

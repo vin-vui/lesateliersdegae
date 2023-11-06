@@ -16,20 +16,20 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Combien ?</h3>
                 <p>
-                    Les ateliers sont limités à 10 personnes.
+                    Les ateliers sont limités à <span class="font-semibold text-caribbean font-amita">10 personnes</span>.
                 </p>
             </div>
             <div class="mt-8">
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1525278070609-779c7adb7b71?auto=format&fit=crop&q=80&w=2047&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
             </div>
         </div>
-        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="md:gap-16 gap-0 items-center py-8 px-4 mx-auto max-w-screen-xl flex flex-col md:flex-row lg:py-16 lg:px-6">
             <div class="mt-8">
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
             </div>
-            <div class="font-light text-gray-500 sm:text-lg">
+            <div class="font-light text-gray-500 sm:text-lg order-first md:order-last">
                 <p class=" text-lg leading-8 text-zomp">Pour une première approche…</p>
-                <h2 class="mb-4 text-2xl tracking-tight font-extrabold text-wheat font-amita">L’Atelier de découverte du dessin centré / mandala</h2>
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">L’Atelier de découverte du dessin centré / mandala</h2>
                 <p class="mb-2 italic text-gray-400">
                     Un temps pour soi et avec les autres...
                 </p>
@@ -91,15 +91,15 @@
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1610829151215-112a99628f6f?auto=format&fit=crop&q=80&w=2073&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
             </div>
         </div>
-        <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+        <div class="md:gap-16 gap-0 items-center py-8 px-4 mx-auto max-w-screen-xl flex flex-col md:flex-row lg:py-16 lg:px-6">
             <div class="mt-8">
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1480355781839-51097c7d4f9f?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
             </div>
-            <div class="font-light text-gray-500 sm:text-lg">
+            <div class="font-light text-gray-500 sm:text-lg order-first md:order-last">
                 <p class=" text-lg leading-8 text-zomp">
                     Deuxième cycle | Faire des mandalas autrement
                 </p>
-                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">Avec différents outils / supports.</h2>
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">Avec différents outils / supports</h2>
                 <p class="mb-2 italic text-gray-400">
                     L’objectif est d’ouvrir le regard de la personne sur d’autres pratiques en lien avec le mandala, afin de développer ses expériences sensorielles et sa créativité.
                 </p>
@@ -131,7 +131,7 @@
                 <p class=" text-lg leading-8 text-zomp">
                     Troisième cycle
                 </p>
-                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">Mandalas et musique.</h2>
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">Mandalas et musique</h2>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
                 <p class="mb-2">

@@ -32,7 +32,7 @@
     <meta name="twitter:creator" content="@mandala-atelier">
 
     {{-- Favicon --}}
-    <link rel="apple-touch-icon" sizes="52x52" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x59" href="/favicon.ico">
     <link rel="manifest" href="/site.webmanifest">
     <meta name="msapplication-TileColor" content="#FFF6E9">
     <meta name="msapplication-config" content="/browserconfig.xml">
