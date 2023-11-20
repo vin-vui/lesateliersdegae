@@ -1,4 +1,4 @@
-<div class="overflow-hidden sm:py-24">
+<section class="overflow-hidden sm:py-24">
 
     <div class="mx-auto max-w-7xl px-6">
 
@@ -76,4 +76,4 @@
         </div>
     </div>
 
-</div>
+</section>

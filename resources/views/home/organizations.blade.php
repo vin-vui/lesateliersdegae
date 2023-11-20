@@ -106,7 +106,7 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
                 <p class="mb-2">
-                    Mandalas pâte à modeler, mandalas “objets” avec des éléments de la nature, mandalas gourmands, mandalas nature (de type land art), mandalas au sol à la crai, et bien d'autres !
+                    Mandalas pâte à modeler, mandalas “objets” avec des éléments de la nature, mandalas gourmands, mandalas nature (de type land art), mandalas au sol à la craie, et bien d'autres !
                 </p>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Participants</h3>
