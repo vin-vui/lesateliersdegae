@@ -53,9 +53,9 @@
 
     @include('home._partials.header')
 
-    <div class="font-sans text-gray-900 antialiased">
+    <main class="font-sans text-gray-900 antialiased">
         {{ $slot }}
-    </div>
+    </main>
 
     @include('home._partials.footer')
 

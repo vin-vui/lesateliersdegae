@@ -1,4 +1,4 @@
-<div class="shapedividers_com-2252">
+<section class="shapedividers_com-2252">
     <div class="overflow-hidden bg-wheat pt-32">
         <div class="mx-auto max-w-7xl md:px-6 lg:px-8">
             <div class="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
@@ -17,11 +17,11 @@
                     </div>
                 </div>
                 <div class="mx-auto max-w-2xl sm:mx-0 sm:max-w-none px-8 sm:px-0" data-aos="fade-left" data-aos-duration="1500">
-                    <img src="{{ url('img/cookie.jpg') }}" alt="Product screenshot" class="w-[54rem] object-cover object-center rounded-3xl">
+                    <img src="{{ url('img/cookie.jpg') }}" alt="Gaëtane Vuillemin, animatrice depuis 12 ans, spécialisée dans le dessin centré, mandala, et la pédagogie Marie Pré. Bibliothécaire passionnée d'animation depuis 2016, partageant son expertise à travers des ateliers créatifs." class="w-[54rem] object-cover object-center rounded-3xl">
                 </div>
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <div class="shapedividers_com-1281 h-24 -mb-24 "></div>

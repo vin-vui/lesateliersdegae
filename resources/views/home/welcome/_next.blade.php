@@ -1,5 +1,5 @@
 <div class="h-full absolute overflow-hidden">
-    <img src="{{ url('img/mandala_3.png') }}" alt="" class="md:-mt-80 -mt-32">
+    <img src="{{ url('img/mandala_3.png') }}" alt="Coloriage de Mandala - Pratique simple et accessible à tous, apaisante, relaxante et bienfaisante." class="md:-mt-80 -mt-32">
 </div>
 
 <section class="bg-zomp pt-24 sm:pb-16 sm:pt-32">

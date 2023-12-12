@@ -15,7 +15,7 @@
             </div>
             <div class="basis-1/2" data-aos="fade-left" data-aos-duration="1500">
                 <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-                    <img src="https://images.unsplash.com/photo-1596568888387-eaa5dea7b8c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1937&q=80" alt="" class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
+                    <img src="https://images.unsplash.com/photo-1596568888387-eaa5dea7b8c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1937&q=80" alt="Ateliers créatifs Mandala - Découvrez la sérénité et l'inspiration à chaque tracé." class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
         <div class="lg:flex lg:px-8 lg:gap-8 lg:mt-12">
             <div class="basis-1/2" data-aos="fade-right" data-aos-duration="1500">
                 <div class="w-0 flex-auto lg:w-auto lg:flex-none lg:self-end">
-                    <img src="https://images.unsplash.com/photo-1628450860617-97f211be90b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80" alt="" class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
+                    <img src="https://images.unsplash.com/photo-1628450860617-97f211be90b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80" alt="Mandala - Dessin Centré - Symbole riche en significations, organisé autour d'un centre défini et d'une circonférence fermée." class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
                 </div>
             </div>
             <div class="basis-1/2" data-aos="fade-left" data-aos-duration="1500">
@@ -49,7 +49,7 @@
             </div>
             <div class="basis-1/2" data-aos="fade-left" data-aos-duration="1500">
                 <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-                    <img src="https://images.unsplash.com/photo-1627926539471-0923dabdebb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80" alt="" class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
+                    <img src="https://images.unsplash.com/photo-1627926539471-0923dabdebb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80" alt="Structures de Mandala - Symbole apaisant d'ordre et d'harmonie, nourrissant l'équilibre de l'esprit." class="aspect-[7/5] w-full rounded-3xl bg-gray-50 object-cover">
                 </div>
             </div>
         </div>
