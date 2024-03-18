@@ -4,7 +4,7 @@
             <div class="flex lg:flex-1">
                 <a href="#" class="">
                     <span class="sr-only">{{ config('app.name') }}</span>
-                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.png" alt="">
+                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.webp" alt="">
                 </a>
             </div>
 

@@ -165,7 +165,7 @@
     </section>
 
     <div class="hidden md:block absolute -top-12 -right-24 z-10 opacity-20 overflow-hidden">
-        <img src="{{ url('img/mandala_2.png') }}" alt="mandala" class="h-[42rem]">
+        <img src="{{ url('img/mandala_2.webp') }}" alt="mandala" class="h-[42rem]">
     </div>
 
     <div class="h-24 -mb-24 shapedividers_com-3932"></div>

@@ -6,7 +6,7 @@
 
         <div class="flex flex-col sm:flex-row gap-y-8 justify-around">
             <div class="space-y-8">
-                <img class="h-20" src="/logo.png" alt="Company name">
+                <img class="h-20" src="/logo.wrbp" alt="Les Ateliers de Gaë">
                 <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru">Les Ateliers de Gaë</p>
                 <div class="flex space-x-6">
                     <a href="https://www.facebook.com/profile.php?id=61552577733025" target="_blank" class="text-zomp hover:text-zomp/80">
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div>
-                <h3 class="text-sm font-semibold leading-6 text-eccru">Plan du site</h3>
+                <h3 class="text-sm font-semibold leading-6 text-zomp">Plan du site</h3>
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
                         <a href="{{ route('welcome') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Accueil</a>
@@ -44,7 +44,7 @@
                 </ul>
             </div>
             <div class="mt-10 md:mt-0">
-                <h3 class="text-sm font-semibold leading-6 text-eccru">Liens utiles</h3>
+                <h3 class="text-sm font-semibold leading-6 text-zomp">Liens utiles</h3>
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
                         <a href="https://formation-mandala.fr/les-praticiens/" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Formation mandala Marie Pré</a>

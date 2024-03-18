@@ -94,7 +94,7 @@
             </div>
         </div>
         <div class="absolute -left-24 z-10 bottom-0 overflow-hidden">
-            <img src="{{ url('img/mandala_4.png') }}" alt="Laissez-vous guider par l'aventure créative des Ateliers de Gaë - Explorez le monde du mandala, de la sérénité à l'expression spontanée." class="w-full md:h-96 h-64 opacity-75">
+            <img src="{{ url('img/mandala_4.webp') }}" alt="Laissez-vous guider par l'aventure créative des Ateliers de Gaë - Explorez le monde du mandala, de la sérénité à l'expression spontanée." class="w-full md:h-96 h-64 opacity-75">
         </div>
     </div>
 

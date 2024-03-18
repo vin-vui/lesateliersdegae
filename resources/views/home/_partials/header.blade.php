@@ -4,7 +4,7 @@
         <div class="flex lg:flex-1">
             <a href="{{ route('welcome') }}" class="-mb-8">
                 <span class="sr-only">{{ config('app.name') }}</span>
-                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.png" alt="">
+                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.webp" alt="">
             </a>
         </div>
         <div class="hidden lg:flex lg:gap-x-12 items-center">
@@ -38,7 +38,7 @@
             <div class="flex items-start mt-1 justify-between gap-x-4">
                 <a href="{{ route('welcome') }}" class="rounded-full">
                     <span class="sr-only">{{ config('app.name') }}</span>
-                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 -mt-1 w-auto" src="/logo_transparent.png" alt="">
+                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 -mt-1 w-auto" src="/logo_transparent.webp" alt="">
                 </a>
                 <div class="flex flex-1 items-center justify-end gap-x-6">
                 <a href="#contact" @click="open = false" class="rounded-full bg-zomp sm:px-3 sm:py-2 sm:text-sm text-xs py-1 px-2 font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-caribbean">Me Contacter</a>

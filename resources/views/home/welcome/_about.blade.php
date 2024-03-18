@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div class="mx-auto max-w-2xl sm:mx-0 sm:max-w-none px-8 sm:px-0" data-aos="fade-left" data-aos-duration="1500">
-                    <img src="{{ url('img/cookie.jpg') }}" alt="Gaëtane Vuillemin, animatrice depuis 12 ans, spécialisée dans le dessin centré, mandala, et la pédagogie Marie Pré. Bibliothécaire passionnée d'animation depuis 2016, partageant son expertise à travers des ateliers créatifs." class="w-[54rem] object-cover object-center rounded-3xl">
+                    <img src="{{ url('img/cookie.webp') }}" alt="Gaëtane Vuillemin, animatrice depuis 12 ans, spécialisée dans le dessin centré, mandala, et la pédagogie Marie Pré. Bibliothécaire passionnée d'animation depuis 2016, partageant son expertise à travers des ateliers créatifs." class="w-[54rem] object-cover object-center rounded-3xl">
                 </div>
             </div>
         </div>
