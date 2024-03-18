@@ -1,6 +1,6 @@
 <x-app-layout>
 
-    <div class="bg-white sticky top-0 shadow-lg">
+    <div class="bg-white sticky top-0 shadow-lg z-40">
         <div class="flex items-center justify-between px-8 py-2 max-w-7xl mx-auto">
             <h2 class="font-semibold font-amita text-xl text-gray-800 leading-tight">
                 📆 événements > Modifier l'événement > {{ $event->name }}

@@ -1,6 +1,6 @@
 <x-app-layout>
 
-    <div class="bg-white sticky top-0 shadow-lg z-50">
+    <div class="bg-white sticky top-0 shadow-lg z-40">
         <div class="flex items-center justify-between px-8 py-2 max-w-7xl mx-auto">
             <h2 class="font-semibold text-xl font-amita text-gray-800 leading-tight capitalize">
                 📆 événements ({{ $events->count() }})
