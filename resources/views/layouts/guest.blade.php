@@ -45,6 +45,7 @@
 
     <!-- Scripts -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <script defer data-domain="lesateliersdegae.fr" src="https://plausible.io/js/script.js"></script>
 
     <!-- Styles -->
     @livewireStyles
