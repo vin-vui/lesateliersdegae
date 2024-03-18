@@ -37,4 +37,7 @@ Route::middleware([
     Route::get('/dashboard', function () {
         return view('dashboard');
     })->name('dashboard');
+    Route::resources([
+        'events' => \App\Http\Controllers\EventController::class,
+    ]);
 });
