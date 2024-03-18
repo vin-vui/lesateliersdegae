@@ -6,7 +6,7 @@
 
         <div class="flex flex-col sm:flex-row gap-y-8 justify-around">
             <div class="space-y-8">
-                <img class="h-20" src="/logo.wrbp" alt="Les Ateliers de Gaë">
+                <img class="h-20" src="/logo.webp" alt="Les Ateliers de Gaë">
                 <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru">Les Ateliers de Gaë</p>
                 <div class="flex space-x-6">
                     <a href="https://www.facebook.com/profile.php?id=61552577733025" target="_blank" class="text-zomp hover:text-zomp/80">
@@ -27,19 +27,19 @@
                 <h3 class="text-sm font-semibold leading-6 text-zomp">Plan du site</h3>
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
-                        <a href="{{ route('welcome') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Accueil</a>
+                        <a href="{{ route('welcome') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Accueil</a>
                     </li>
                     <li>
-                        <a href="{{ route('individuals') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Particuliers</a>
+                        <a href="{{ route('individuals') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Particuliers</a>
                     </li>
                     <li>
-                        <a href="{{ route('organizations') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Structures</a>
+                        <a href="{{ route('organizations') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Structures</a>
                     </li>
                     {{-- <li>
                         <a href="{{ route('') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Agenda des Ateliers</a>
                     </li> --}}
                     <li>
-                        <a href="{{ route('policy') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Mentions légales</a>
+                        <a href="{{ route('policy') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Mentions légales</a>
                     </li>
                 </ul>
             </div>
@@ -47,7 +47,7 @@
                 <h3 class="text-sm font-semibold leading-6 text-zomp">Liens utiles</h3>
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
-                        <a href="https://formation-mandala.fr/les-praticiens/" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Formation mandala Marie Pré</a>
+                        <a href="https://formation-mandala.fr/les-praticiens/" class="text-sm leading-6 text-zomp hover:text-caribbean">Formation mandala Marie Pré</a>
                     </li>
                 </ul>
                 {{-- <div class="mt-10 xl:mt-0">
@@ -65,7 +65,7 @@
         </div>
 
         <div class="mt-16 border-t border-caribbean/50 pt-8 sm:mt-20 lg:mt-24">
-            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2020 Les Ateliers de Gaë. Tous droits réservés. Développé avec ❤️ par <a href="https://vinvui.com" class="underline hover:text-caribbean">Vinvui</a></p>
+            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2024 Les Ateliers de Gaë. Tous droits réservés. Développé avec ❤️ par <a href="https://vinvui.com" class="underline hover:text-caribbean">Vinvui</a></p>
         </div>
     </div>
 </footer>
