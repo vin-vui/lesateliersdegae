@@ -4,7 +4,7 @@
         <div class="flex lg:flex-1">
             <a href="{{ route('welcome') }}" class="-mb-8">
                 <span class="sr-only">{{ config('app.name') }}</span>
-                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.webp" alt="">
+                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.webp" width="69" height="72" alt="Logo en forme de tortue fusionnée avec un mandala">
             </a>
         </div>
         <div class="hidden lg:flex lg:gap-x-12 items-center">
