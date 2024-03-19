@@ -6,7 +6,7 @@
 
         <div class="flex flex-col sm:flex-row gap-y-8 justify-around">
             <div class="space-y-8">
-                <img class="h-20" src="/logo.webp" alt="Les Ateliers de Gaë">
+                <img class="h-20" src="/logo.webp" width="77" height="80" alt="Les Ateliers de Gaë">
                 <p class="text-3xl font-amita leading-6 text-transparent bg-clip-text bg-gradient-to-r from-zomp to-eccru">Les Ateliers de Gaë</p>
                 <div class="flex space-x-6">
                     <a href="https://www.facebook.com/profile.php?id=61552577733025" target="_blank" class="text-zomp hover:text-zomp/80">

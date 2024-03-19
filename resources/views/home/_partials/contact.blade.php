@@ -1,6 +1,6 @@
 <section id="contact" class="relative bg-white">
     <div class="lg:absolute lg:inset-0 lg:left-1/2">
-        <img class="h-64 w-full bg-gray-50 object-cover sm:h-80 lg:absolute lg:h-full" src="https://images.unsplash.com/photo-1601911756110-df2ca76b05fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=792&q=70" width="792" height="1279" alt="Art de l'écriture créative avec Mandala - Une aventure unique d'expression spontanée et intuitive.">
+        <img class="h-64 w-full bg-gray-50 object-cover sm:h-80 lg:absolute lg:h-full" src="https://images.unsplash.com/photo-1601911756110-df2ca76b05fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&h=800&q=70" width="792" height="1279" alt="Art de l'écriture créative avec Mandala - Une aventure unique d'expression spontanée et intuitive.">
     </div>
     <div class="pb-24 pt-16 sm:pb-32 sm:pt-24 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:pt-32">
         <div class="px-6 lg:px-8 relative z-20">
