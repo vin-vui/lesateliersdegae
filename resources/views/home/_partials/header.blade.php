@@ -17,6 +17,9 @@
             <a href="{{ route('organizations') }}" class="text-sm font-semibold leading-6">
                 <span class="{{ request()->routeIs('organizations') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Structures</span>
             </a>
+            <a href="{{ route('courses') }}" class="text-sm font-semibold leading-6">
+                <span class="{{ request()->routeIs('courses') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Cours de flûte traversière</span>
+            </a>
             {{-- <a href="{{ route('agenda') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('agenda') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Agenda des Ateliers</span></a> --}}
         </div>
         <div class="flex flex-1 items-center justify-end gap-x-6">

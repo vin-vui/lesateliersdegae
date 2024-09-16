@@ -35,6 +35,9 @@
                     <li>
                         <a href="{{ route('organizations') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Structures</a>
                     </li>
+                    <li>
+                        <a href="{{ route('courses') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Flute traversière</a>
+                    </li>
                     {{-- <li>
                         <a href="{{ route('') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Agenda des Ateliers</a>
                     </li> --}}
@@ -48,6 +51,9 @@
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
                         <a href="https://formation-mandala.fr/les-praticiens/" class="text-sm leading-6 text-zomp hover:text-caribbean">Formation mandala Marie Pré</a>
+                    </li>
+                    <li>
+                        <a href="https://www.datamusic.fr/fr/accueil" class="text-sm leading-6 text-zomp hover:text-caribbean">Data Music</a>
                     </li>
                 </ul>
                 {{-- <div class="mt-10 xl:mt-0">
