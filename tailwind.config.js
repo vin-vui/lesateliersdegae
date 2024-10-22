@@ -18,7 +18,7 @@ export default {
                 amita: ['Amita'],
             },
             colors: {
-                'zomp': '#57978A',
+                'zomp': '#3C6C62',
                 'caribbean': '#336870',
                 'old-lace': '#FFF6E9',
                 'eccru': '#C3AC80',

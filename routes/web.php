@@ -22,6 +22,9 @@ Route::get('/particuliers', function () {
 Route::get('/structures', function () {
     return view('home.organizations');
 })->name('organizations');
+Route::get('/cours-de-flute-traversiere', function () {
+    return view('home.courses');
+})->name('courses');
 // Route::get('/agenda', function () {
 //     return view('home.agenda');
 // })->name('agenda');
@@ -35,6 +38,9 @@ Route::middleware([
     'verified',
 ])->group(function () {
     Route::get('/dashboard', function () {
-        return view('dashboard');
+        return view('back.dashboard');
     })->name('dashboard');
+    Route::resources([
+        'events' => \App\Http\Controllers\EventController::class,
+    ]);
 });

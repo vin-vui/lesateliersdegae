@@ -4,7 +4,7 @@
         <div class="flex lg:flex-1">
             <a href="{{ route('welcome') }}" class="-mb-8">
                 <span class="sr-only">{{ config('app.name') }}</span>
-                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.png" alt="">
+                <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 w-auto" src="/logo_transparent.webp" width="69" height="72" alt="Logo en forme de tortue fusionnée avec un mandala">
             </a>
         </div>
         <div class="hidden lg:flex lg:gap-x-12 items-center">
@@ -16,6 +16,9 @@
             </a>
             <a href="{{ route('organizations') }}" class="text-sm font-semibold leading-6">
                 <span class="{{ request()->routeIs('organizations') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Ateliers Structures</span>
+            </a>
+            <a href="{{ route('courses') }}" class="text-sm font-semibold leading-6">
+                <span class="{{ request()->routeIs('courses') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Cours de flûte traversière</span>
             </a>
             {{-- <a href="{{ route('agenda') }}" class="text-sm font-semibold leading-6"><span class="{{ request()->routeIs('agenda') ? 'highlight text-white' : 'text-gray-900 hover:text-caribbean transition-all duration-300' }}">Agenda des Ateliers</span></a> --}}
         </div>
@@ -38,7 +41,7 @@
             <div class="flex items-start mt-1 justify-between gap-x-4">
                 <a href="{{ route('welcome') }}" class="rounded-full">
                     <span class="sr-only">{{ config('app.name') }}</span>
-                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 -mt-1 w-auto" src="/logo_transparent.png" alt="">
+                    <img class="md:h-20 bg-old-lace rounded-full h-16 p-1 -mt-1 w-auto" src="/logo_transparent.webp" alt="">
                 </a>
                 <div class="flex flex-1 items-center justify-end gap-x-6">
                 <a href="#contact" @click="open = false" class="rounded-full bg-zomp sm:px-3 sm:py-2 sm:text-sm text-xs py-1 px-2 font-semibold text-white shadow-sm hover:bg-zomp/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-caribbean">Me Contacter</a>

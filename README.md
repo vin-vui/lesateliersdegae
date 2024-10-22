@@ -1,66 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    <a href="https://lesateliersdegae.fr" target="_blank">
+        <img src="https://lesateliersdegae.fr/logo_transparent.png" width="400">
+    </a>
 </p>
 
-## About Laravel
+# 🔎 Le projet
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Le projet vise à développer un site vitrine pour "Les Ateliers de Gaë", une initiative dédiée à la découverte et à la pratique du mandala comme forme d'expression artistique et méditative. Ce site a pour objectif de présenter au public l'univers unique du mandala, en mettant en lumière les ateliers créatifs organisés autour de cette thématique, où sérénité et inspiration se rencontrent à chaque tracé.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Afin de répondre aux exigences spécifiques de ce projet et de proposer une expérience utilisateur optimale, le site sera développé en utilisant le framework PHP Laravel, choisit pour sa capacité à fournir des solutions sur mesure. Grâce à Laravel, il sera possible de concevoir un système de gestion de contenu (CMS) personnalisé, permettant une gestion aisée et intuitive du contenu par les administrateurs du site, sans nécessiter de compétences techniques poussées.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Le CMS custom offrira une flexibilité sans précédent pour mettre à jour les informations relatives aux ateliers, partager des articles de blog sur la pratique du mandala, publier des témoignages de participants, et présenter une galerie d’œuvres créées lors des ateliers. La structure du site sera conçue pour faciliter l'accès à des informations claires sur la nature et les bénéfices des mandalas, décrits comme des dessins centrés riches en significations, qui inspirent l'ordre et l'harmonie.
 
-## Learning Laravel
+Le développement avec Laravel garantira par ailleurs un site sécurisé, performant, et évolutif, capable de s'adapter aux besoins futurs des "Ateliers de Gaë". Ce choix technologique permettra également d'assurer une protection efficace des données personnelles des utilisateurs, en ligne avec les normes de sécurité web actuelles.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+En résumé, ce projet de site vitrine pour "Les Ateliers de Gaë" vise à offrir une plateforme en ligne attrayante et fonctionnelle, qui reflète l'esprit des ateliers de mandala proposés, tout en fournissant un outil de gestion facile pour les organisateurs. Il s'agit d'une démarche clé pour élargir la portée de cette initiative, attirer un public plus large, et encourager la pratique du mandala comme moyen d'expression et de bien-être.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+# 🛠️ Stack
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![Static Badge](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel&link=https://laravel.com)
+![Static Badge](https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss&link=https://tailwindcss.com)
+![Static Badge](https://img.shields.io/badge/livewire-grey?style=for-the-badge&logo=livewire&link=https://laravel-livewire.com)
+![Static Badge](https://img.shields.io/badge/alpine.js-grey?style=for-the-badge&logo=alpinedotjs&link=https://alpinejs.dev)
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2Fb8390bbd-3b96-4c74-9a37-4baf9a439f38%3Fdate%3D1&style=for-the-badge)](https://forge.laravel.com/servers/417573/sites/2133166)
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
