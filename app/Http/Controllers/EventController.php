@@ -55,8 +55,8 @@ class EventController extends Controller
         $event->external_url = $validated['external_url'];
         $event->external_url_title = $validated['external_url_title'];
         if ($request->hasFile('image')) {
-            $validated['image'] = $request->file('image')->store('public/events');
-            $event->image = asset('storage/events/' . basename($validated['image']));
+            $validated['image'] = $request->file('image')->store('events', 'public');
+            $event->image = asset('storage/' . $validated['image']);
         }
         $event->image_alt = $validated['image_alt'];
         $event->is_published = $validated['is_published'];
@@ -110,8 +110,8 @@ class EventController extends Controller
         $event->external_url = $validated['external_url'];
         $event->external_url_title = $validated['external_url_title'];
         if ($request->hasFile('image')) {
-            $validated['image'] = $request->file('image')->store('public/events');
-            $event->image = asset('storage/events/' . basename($validated['image']));
+            $validated['image'] = $request->file('image')->store('events', 'public');
+            $event->image = asset('storage/' . $validated['image']);
         }
         $event->image_alt = $validated['image_alt'];
         $event->is_published = $validated['is_published'];
