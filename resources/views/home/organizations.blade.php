@@ -8,10 +8,10 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
                 <p class="mb-2">
-                    Intervention dans des structures socio-culturelles à Besançon et aussi dans la région Bourgogne Franche-Comté.
+                    Interventions dans votre structure dans le Doubs et dans la région Bourgogne Franche-Comté, hors Grand Besançon Métropole.
                 </p>
                 <p class="mb-2">
-                    Je peux adapter chaque atelier en fonction de l’âge des participants : 5 - 8 ans, 8 - 10 ans, ados et adultes pour des ateliers d’une durée allant d’1h30 à 2h.
+                    Je peux adapter chaque atelier en fonction de l’âge des participants : 6 - 8 ans, 8 - 10 ans, ados et adultes pour des ateliers d’une durée allant d’1h30 à 2h.
                 </p>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Combien ?</h3>
@@ -47,9 +47,9 @@
                 </p>
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Tarif</h3>
                 <p>
-                    <span class="font-semibold text-caribbean font-amita">60 € de l’heure</span> (rémunération tarif intervenant DRAC).
+                    <span class="font-semibold text-caribbean font-amita">70 € de l’heure</span>.
                     <br>
-                    Soit 120€ facturés pour un atelier d’1h45.
+                    Soit 140€ facturés pour un atelier d’1h45.
                     <br>
                     Plus les frais de déplacements au tarif <span class="font-semibold text-caribbean font-amita">0.65 € du kilomètre</span>.
                     <br>
@@ -64,7 +64,7 @@
                 </p>
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-wheat font-amita">De la mise en couleurs à la création.</h2>
                 <p class="mb-2 italic text-gray-400">
-                    Découverte de cet outil dessin centré / mandala sur plusieurs séances (à partir de 6 séances), voire des ateliers réguliers (mensuels ou hebdomadaires).
+                    Découverte de l’outil dessin centré / mandala sur plusieurs séances (à partir de 6 séances), ou ateliers réguliers (mensuels ou hebdomadaires).
                 </p>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
@@ -74,18 +74,12 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Participants</h3>
                 <p>
-                    5 - 8 ans, 8 - 10 ans, ados et adultes
+                    6 - 8 ans, 8 - 10 ans, ados et adultes
                     <br>
-                    <span class="font-semibold text-caribbean font-amita">Durée d’1 h 45 à 2 h</span>
+                    <span class="font-semibold text-caribbean font-amita">Durée 1 h 45 à 2 h</span>
                 </p>
 
-                <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Tarif</h3>
-                <p>
-                    6 séances ou plus
-                    <br>
-                    <span class="uppercase">à</span> partir de <span class="font-semibold text-caribbean font-amita">700 €</span>
-                    <span class="italic text-gray-400">matériel inclus</span>
-                </p>
+                <p class="mt-10 italic text-gray-400">Devis sur demande.</p>
             </div>
             <div class="mt-8">
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1610829151215-112a99628f6f?auto=format&fit=crop&q=80&w=2073&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">
@@ -106,23 +100,17 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
                 <p class="mb-2">
-                    Mandalas pâte à modeler, mandalas “objets” avec des éléments de la nature, mandalas gourmands, mandalas nature (de type land art), mandalas au sol à la craie, et bien d'autres !
+                    Mandalas pâte à modeler / argile, mandalas “objets” avec des éléments de la nature, mandalas nature (de type land art), mandalas au sol à la craie, mandalas gourmands…
                 </p>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Participants</h3>
                 <p>
-                    5 - 8 ans, 8 - 10 ans, ados et adultes
+                    6 - 8 ans, 8 - 10 ans, ados et adultes
                     <br>
-                    <span class="font-semibold text-caribbean font-amita">Durée d’1 h 45 à 2 h</span>
+                    <span class="font-semibold text-caribbean font-amita">Durée 1 h 45 à 2 h</span>
                 </p>
 
-                <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Tarif</h3>
-                <p>
-                    6 séances ou plus
-                    <br>
-                    <span class="uppercase">à</span> partir de <span class="font-semibold text-caribbean font-amita">750 €</span>
-                    <span class="italic text-gray-400">matériel inclus</span>
-                </p>
+                <p class="mt-10 italic text-gray-400">Devis sur demande.</p>
 
             </div>
         </div>
@@ -140,18 +128,12 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Participants</h3>
                 <p>
-                    5 - 8 ans, 8 - 10 ans, ados et adultes
+                    6 - 8 ans, 8 - 10 ans, ados et adultes
                     <br>
-                    <span class="font-semibold text-caribbean font-amita">Durée d’1 h 45 à 2 h</span>
+                    <span class="font-semibold text-caribbean font-amita">Durée 1 h 45 à 2 h</span>
                 </p>
 
-                <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Tarif</h3>
-                <p>
-                    6 séances ou plus
-                    <br>
-                    <span class="uppercase">à</span> partir de <span class="font-semibold text-caribbean font-amita">750 €</span>
-                    <span class="italic text-gray-400">matériel inclus</span>
-                </p>
+                <p class="mt-10 italic text-gray-400">Devis sur demande.</p>
             </div>
             <div class="mt-8">
                 <img class="w-full rounded-3xl relative z-30 shadow-xl" src="https://images.unsplash.com/photo-1433622070098-754fdf81c929?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="office content 1">

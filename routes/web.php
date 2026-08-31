@@ -22,9 +22,7 @@ Route::get('/particuliers', function () {
 Route::get('/structures', function () {
     return view('home.organizations');
 })->name('organizations');
-Route::get('/cours-de-flute-traversiere', function () {
-    return view('home.courses');
-})->name('courses');
+Route::redirect('/cours-de-flute-traversiere', '/', 301);
 // Route::get('/agenda', function () {
 //     return view('home.agenda');
 // })->name('agenda');

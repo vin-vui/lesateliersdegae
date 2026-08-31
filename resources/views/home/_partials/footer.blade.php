@@ -35,9 +35,6 @@
                     <li>
                         <a href="{{ route('organizations') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Structures</a>
                     </li>
-                    <li>
-                        <a href="{{ route('courses') }}" class="text-sm leading-6 text-zomp hover:text-caribbean">Flute traversière</a>
-                    </li>
                     {{-- <li>
                         <a href="{{ route('') }}" class="text-sm leading-6 text-zomp/80 hover:text-caribbean">Agenda des Ateliers</a>
                     </li> --}}
@@ -51,9 +48,6 @@
                 <ul role="list" class="mt-6 space-y-4">
                     <li>
                         <a href="https://formation-mandala.fr/les-praticiens/" class="text-sm leading-6 text-zomp hover:text-caribbean">Formation mandala Marie Pré</a>
-                    </li>
-                    <li>
-                        <a href="https://www.datamusic.fr/fr/accueil" class="text-sm leading-6 text-zomp hover:text-caribbean">Data Music</a>
                     </li>
                 </ul>
                 {{-- <div class="mt-10 xl:mt-0">
@@ -71,7 +65,7 @@
         </div>
 
         <div class="mt-16 border-t border-caribbean/50 pt-8 sm:mt-20 lg:mt-24">
-            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2024 Les Ateliers de Gaë. Tous droits réservés. Développé avec ❤️ par <a href="https://vinvui.com" class="underline hover:text-caribbean">Vinvui</a></p>
+            <p class="text-xs text-center leading-5 text-zomp/80">&copy; 2026 Les Ateliers de Gaë. Tous droits réservés. Développé avec ❤️ par <a href="https://vinvui.com" class="underline hover:text-caribbean">Vinvui</a></p>
         </div>
     </div>
 </footer>

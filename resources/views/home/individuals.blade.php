@@ -8,7 +8,7 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Ce que je propose</h3>
                 <p class="mb-2">
-                    Des ateliers à destination des particuliers, adultes et / ou enfants dès 5 ans.
+                    Des ateliers à destination des particuliers, adultes et / ou enfants dès 6 ans.
                 </p>
                 <p class="mb-2">
                     Des ateliers de découverte du dessin centré / mandala (durée d'1h30 à 2h selon l'âge) :
@@ -16,16 +16,14 @@
                 <ul class="list-disc list-outside ml-8">
                     <li>Mise en couleurs de mandalas</li>
                     <li>Semi création de mandalas</li>
-                    <li>Faire des mandalas autrement : mandalas pâte à modeler, mandalas “objets” avec des éléments de la nature, mandalas gourmands, mandalas nature (de type land art), mandalas au sol à la craie…</li>
+                    <li>Faire des mandalas autrement : en pâte à modeler, “objets” avec des éléments de la nature, nature (de type land art), au sol à la craie, gourmands…</li>
                 </ul>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Lieu</h3>
                 <p>
-                    Soit dans un lieu à Besançon (salon de thé ou autre).
+                    Doubs et région Bourgogne Franche-Comté, hors Grand Besançon Métropole.
                     <br>
-                    Soit à mon domicile quartier Saint Claude à Besançon.
-                    <br>
-                    Soit chez vous si vous le souhaitez. <span class="text-base text-zomp/80">Animation spéciale selon vos envies / besoins, par exemple moment privilégié à offrir à des ami.es, anniversaire avec ateliers mandalas coopératifs, etc.</span>
+                    A votre domicile ou dans une salle selon les possibilités. <span class="text-base text-zomp/80">Animation spéciale selon vos besoins, par exemple moment privilégié à offrir à des ami.es, anniversaire avec mandalas coopératifs, etc.</span>
                 </p>
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Combien ?</h3>
@@ -35,7 +33,7 @@
 
                 <h3 class="mt-10 font-semibold text-xl mb-4 text-zomp border-b">Tarif</h3>
                 <p>
-                    L’inscription est payante et prise en charge par chaque participant (de 20 à 25€ en général) ou par l’organisateur (au tarif 60€ de l’heure + frais kilométriques).
+                    L’inscription est payante et prise en charge par chaque participant (30€ en général) ou par l’organisateur (au tarif 70€ de l’heure + frais kilométriques).
                 </p>
             </div>
             <div class="mt-8">

@@ -1,3 +1,7 @@
+@php($events = App\Models\Event::where('is_published', true)->get())
+
+@if($events->isNotEmpty())
+
 <div class="h-full absolute overflow-hidden">
     <img src="{{ url('img/mandala_3.webp') }}" alt="Coloriage de Mandala - Pratique simple et accessible à tous, apaisante, relaxante et bienfaisante." class="md:-mt-80 -mt-32">
 </div>
@@ -10,7 +14,7 @@
         </div>
         <div class="mx-auto mt-16 flex flex-col sm:flex-row gap-8">
 
-            @foreach (App\Models\Event::where('is_published', true)->get() as $event)
+            @foreach ($events as $event)
             <article class="flex flex-col w-full" data-aos="zoom-in-down" data-aos-duration="1500">
                 <div class="relative w-full aspect-[7/5] bg-cover bg-center rounded-3xl" style="background-image: url('{{ $event->image }}')">
                     <span class="sr-only">{{ $event->image_alt }}</span>
@@ -86,3 +90,5 @@
 </section>
 
 <div class="shapedividers_com-8143 h-24 -mb-24"></div>
+
+@endif
